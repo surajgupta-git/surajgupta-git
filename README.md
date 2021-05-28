@@ -14,6 +14,8 @@ Software engineer with 2.5 years of professional experience committed to build i
 Love to indulge in conversations about the Why's, What's and How's of a product.<br>
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
 
+[🌟Know More🌟](https://surajgupta-git.github.io/portfolio-2/)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][resources]
