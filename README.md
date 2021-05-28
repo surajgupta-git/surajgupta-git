@@ -1,5 +1,5 @@
 ### Hey, Thanks for taking a peek! 🥳
-![Name gif](https://github.com/PrudhviVajja/PrudhviVajja/blob/master/name.gif)
+![Name gif](https://github.com/surajgupta-git/surajgupta-git/blob/main/name.gif)
 
 <p align="left"> 
   <img src=https://komarev.com/ghpvc/?username=surajgupta-git alt=surajgupta/> &nbsp; 
@@ -13,15 +13,6 @@
 Software engineer with 2.5 years of professional experience committed to build intuitive solutions which solve everyday problems.<br> 
 Love to indulge in conversations about the Why's, What's and How's of a product.<br>
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="Icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
-
 
 ### Languages and Tools:
 
@@ -39,17 +30,26 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 [<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][resources]
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][resources]
 
+<br />
 
-<br />
-<br />
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
+
+<br/>
+
+---
+
 
 <a href="https://github.com/surajgupta-git">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
 </a>
 
-
 [GitHub]: https://github.com/surajgupta-git
-[twitter]: https://twitter.com/VPrudhvi0001
 [instagram]: https://www.instagram.com/suraj.gupta_sg/
 [linkedin]: https://www.linkedin.com/in/surajguptagudla/
 [FaceBook]: https://www.facebook.com/SurajGupta.Gudla/
+[resources]: https://surajgupta-git.github.io/portfolio-2/
