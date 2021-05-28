@@ -8,7 +8,7 @@
   </a> &nbsp;    
 </p>
 
-**About me.**
+**About me.** <br/>
 🎓 Computer Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 Software engineer with 2.5 years of professional experience committed to build intuitive solutions which solve everyday problems.<br> 
 Love to indulge in conversations about the Why's, What's and How's of a product.<br>
