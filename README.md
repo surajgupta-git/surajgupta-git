@@ -12,7 +12,8 @@
 🎓 Computer Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 Software engineer with 2.5 years of professional experience committed to build intuitive solutions which solve everyday problems.<br> 
 Love to indulge in conversations about the Why's, What's and How's of a product.<br>
-A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br />
+A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
+I am passionate about developing full-stack web appications.<br />
 
 [🌟Know More🌟](https://surajgupta-git.github.io/portfolio-2/)
 
