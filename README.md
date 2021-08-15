@@ -1,7 +1,5 @@
 
-<a href="https://github.com/surajgupta-git">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
-</a>
+
 
 ### Hey, Thanks for taking a peek! 🥳
 ![Name gif](https://github.com/surajgupta-git/surajgupta-git/blob/main/name.gif)
@@ -16,7 +14,7 @@
  --- 
 
 
-**About me.** <br/>
+### About me. <br/>
 🎓 Computer Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 Software engineer with 2.5 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
 Love to indulge in conversations about the Why's, What's and How's of a product.<br>
@@ -63,6 +61,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br/>
 
+---
+
+<a href="https://github.com/surajgupta-git">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
+</a>
 
 [GitHub]: https://github.com/surajgupta-git
 [instagram]: https://www.instagram.com/suraj.gupta_sg/
