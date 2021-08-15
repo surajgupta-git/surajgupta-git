@@ -60,6 +60,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
 
 <br/>
+<br />
 
 ---
 
