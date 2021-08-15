@@ -15,11 +15,11 @@
 
 
 ### About me. <br/>
-🎓 Computer Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
+🎓 Computer Science Graduate Student at [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 Software engineer with 2.5 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
 Love to indulge in conversations about the Why's, What's and How's of a product.<br>
 A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.
-I am passionate about developing full-stack web appications.<br />
+I am passionate about developing full-stack web applications.<br />
 
 [🌟Know More🌟](https://surajgupta-git.github.io/portfolio-2/)
 
