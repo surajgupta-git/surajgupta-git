@@ -8,6 +8,9 @@
   </a> &nbsp;    
 </p>
 
+ --- 
+
+
 **About me.** <br/>
 🎓 Computer Science Graduate Student [Indiana University Bloomington](https://cs.indiana.edu/)<br>
 Software engineer with 2.5 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
@@ -16,6 +19,8 @@ A technology enthusiast who loves to explore new technologies and leverage it to
 I am passionate about developing full-stack web appications.<br />
 
 [🌟Know More🌟](https://surajgupta-git.github.io/portfolio-2/)
+
+---
 
 ### Languages, Tools & Technologies:
 
@@ -43,7 +48,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <br />
 
-### Connect with me:
+  --- 
+
+### Connect with me: <br />
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
@@ -58,6 +65,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <a href="https://github.com/surajgupta-git">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
 </a>
+
+---
+
 
 [GitHub]: https://github.com/surajgupta-git
 [instagram]: https://www.instagram.com/suraj.gupta_sg/
