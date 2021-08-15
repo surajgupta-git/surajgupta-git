@@ -1,3 +1,8 @@
+
+<a href="https://github.com/surajgupta-git">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
+</a>
+
 ### Hey, Thanks for taking a peek! 🥳
 ![Name gif](https://github.com/surajgupta-git/surajgupta-git/blob/main/name.gif)
 
@@ -29,7 +34,7 @@ I am passionate about developing full-stack web appications.<br />
 [<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][resources]
 [<img align="left" alt="C#" width="35px" src="https://user-images.githubusercontent.com/66148226/128506236-a0285195-cd7b-4e90-b006-6a9bfb27c2eb.png" />][resources]
 [<img align="left" alt="HTML" width="35px" src="https://user-images.githubusercontent.com/66148226/128506571-beab6911-692d-48ae-b3b1-ea3d3d78e52c.png" />][resources]
-[<img align="left" alt="CSS" width="35px" src="https://user-images.githubusercontent.com/66148226/128506770-aa1d333d-36d9-49a2-852a-f1895c6e4373.png" />][resources]
+[<img align="left" alt="CSS" width="35px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />][resources]
 [<img align="left" alt="JS" width="35px" src="https://user-images.githubusercontent.com/66148226/128506828-01f74d08-ff49-4621-8ead-bcdd4674a3d2.png" />][resources]
 [<img align="left" alt="Kubernetes" width="35px" src="https://user-images.githubusercontent.com/66148226/128506883-bdee27fb-e831-4493-b198-74a1eb4958c5.png" />][resources]
 [<img align="left" alt="React JS" width="35px" src="https://user-images.githubusercontent.com/66148226/128507502-cd6a43eb-6fdd-4e51-b5c0-8cc7c5e8ab3f.png" />][resources]
@@ -42,31 +47,18 @@ I am passionate about developing full-stack web appications.<br />
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][resources]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][resources]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][resources]
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][resources]
+[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][resources]<br />
 
-<br />
-<br />
-<br />
+---
 
-  --- 
+### Connect with me:
 
-### Connect with me: <br />
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
+[<img align="left" width="40px" alt="codeSTACKr | Twitter" width="22px" src="Icons\iconmonstr-github-1.svg" />][GitHub]
+[<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/linkedin-logo.svg" />][linkedin]
+[<img align="left" width="40px" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
+[<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
 
 <br/>
-
----
-
-
-<a href="https://github.com/surajgupta-git">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
-</a>
-
----
 
 
 [GitHub]: https://github.com/surajgupta-git
