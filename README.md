@@ -68,6 +68,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
 </a>
 
+![](https://github.com/surajgupta-git/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/surajgupta-git/github-stats/blob/master/generated/languages.svg)
+
+
+
 [GitHub]: https://github.com/surajgupta-git
 [instagram]: https://www.instagram.com/suraj.gupta_sg/
 [linkedin]: https://www.linkedin.com/in/surajguptagudla/
