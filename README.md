@@ -64,13 +64,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ---
 
-<a href="https://github.com/surajgupta-git">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta-git&show_icons=true&theme=dark&line_height=27" alt="Suraj Gupta's github stats"/>
-</a>
 
-![](https://github.com/surajgupta-git/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/surajgupta-git/github-stats/blob/master/generated/languages.svg)
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=surajgupta-git&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta-git&langs_count=5&theme=tokyonight)]()
 
 
 [GitHub]: https://github.com/surajgupta-git
