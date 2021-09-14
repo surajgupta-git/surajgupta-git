@@ -66,7 +66,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=surajgupta-git&count_private=true&theme=tokyonight&showicons=true" alt="Suraj Gupta's github stats"/>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajgupta-git&langs_count=5&theme=tokyonight" alt="Suraj Gupta's Languages"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user={surajgupta-git}" alt="Suraj Gupta's streak stats"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta-git" alt="Suraj Gupta's streak stats"/>
 
 
 [GitHub]: https://github.com/surajgupta-git
