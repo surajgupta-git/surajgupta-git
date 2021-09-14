@@ -1,7 +1,7 @@
 
 
-
-### Hey, Thanks for taking a peek! 🥳
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Thanks for taking a peek! 🥳
 ![Name gif](https://github.com/surajgupta-git/surajgupta-git/blob/main/name.gif)
 
 <p align="left"> 
