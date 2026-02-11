@@ -16,7 +16,7 @@
 
 ### Who am I ?? <br/>
 #### 🎓 Computer Science Graduate Student at [Indiana University Bloomington](https://cs.indiana.edu/)<br>
-#### 👩‍💻 Software engineer with 2.5 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
+#### 👩‍💻 Software engineer with 6 years of professional experience committed to building intuitive solutions to everyday problems that go live in the market and make an impact.<br> 
 #### ⚡ A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems. <br>
 #### ❤ I enjoy coding and love building Web Apps.<br />
 
