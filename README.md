@@ -58,12 +58,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" width="40px" alt="codeSTACKr | Instagram" width="22px" src="Icons/instagram.svg" />][instagram]
 [<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
 
-<br/>
-<br />
+
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=surajgupta-git&count_private=true&theme=tokyonight&showicons=true" alt="Suraj Gupta's github stats"/>
-<br>
 
 [GitHub]: https://github.com/surajgupta-git
 [instagram]: https://www.instagram.com/suraj.gupta_sg/
