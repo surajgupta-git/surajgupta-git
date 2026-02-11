@@ -59,9 +59,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" width="40px" alt="codeSTACKr | LinkedIn" width="22px" src="Icons/facebook-logo.svg" />][FaceBook]
 
 
-
----
-
 [GitHub]: https://github.com/surajgupta-git
 [instagram]: https://www.instagram.com/suraj.gupta_sg/
 [linkedin]: https://www.linkedin.com/in/surajguptagudla/
